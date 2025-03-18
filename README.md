@@ -2,8 +2,10 @@
 
 ###
 
-<p align="center">Meu nome é Matheus Nascimento, concluí o Mestado Acadêmico em Matemática e atualmente sou graduando em Engenharia de Computação.<br><br>Além de ter concluído os fundamentos de programação (Lógica, Estrutura de Dados, Orientação a Objetos etc), tenho me capacitado em Inteligência Artificial e Internet das Coisas, com foco em Machine Learning e Sistemas Embarcados.</p>
-
+<p align="center">Meu nome é Matheus Nascimento, sou Mestre em Matemática e atualmente sou graduando em Engenharia de Computação.<br><br>
+  Gosto muito de Matemática e através da Engenharia da Computação estou tendo a oportunidade de voltar a programar depois de alguns anos. Me sinto otimista em juntar essas duas areas de 
+  conhecimento que fazem parte da minha vida, além de poder atuar profissionalmente na intersecção entre elas.<br><br></p>
+  
 ###
 
 <h2 align="center">Linguagens e Estatísticas</h2>
@@ -18,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -69,4 +73,3 @@
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
 </div>
 
-###
